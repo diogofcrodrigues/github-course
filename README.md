@@ -1,5 +1,7 @@
 # github-course
 um repositorio no curso git.
 
+gitshach e lindo
+hdhdhdhI can type my code herei
 
-hdhdhdhI can type my code here
+gostou do curso , eu ja estu terminando 
